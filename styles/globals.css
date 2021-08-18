@@ -14,3 +14,16 @@ a {
 * {
   box-sizing: border-box;
 }
+.rdp-day_selected{
+  background-color: #fff !important;
+  color: #000 !important;
+}
+.rdp-day_today{
+  background-color: #fff !important;
+  color: #000 !important;
+  font-weight: 400 !important;
+  
+}
+.rdp-day_today:hover{
+background-color: #e7edff !important;
+}
